@@ -18,7 +18,7 @@ import logging, json, os, random
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
-BOT_TOKEN = "8720056848:AAH_qboF7PGGxROqTJ1icoKxlq64n_DB9Qw"
+BOT_TOKEN = "8642543074:AAFrIb47ha0f6BaZGs6ZyVX0Kj5TKHUDnIA"
 DATA_FILE = "quiz_data.json"
 
 LEVELS = [
